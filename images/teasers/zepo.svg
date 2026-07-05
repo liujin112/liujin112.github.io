@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="292" viewBox="0 0 520 292" role="img" aria-labelledby="title">
+  <title id="title">ZePo teaser placeholder</title>
+  <rect width="520" height="292" fill="#fbfaf8"/>
+  <circle cx="154" cy="138" r="68" fill="#fff" stroke="#c7d1da" stroke-width="4"/>
+  <path d="M119 152c23 26 48 26 71 0M125 119h14M169 119h14" stroke="#63788a" stroke-width="6" stroke-linecap="round" fill="none"/>
+  <path d="M238 138h74" stroke="#b7c2ca" stroke-width="8" stroke-linecap="round"/>
+  <path d="M308 138l-20-15m20 15l-20 15" stroke="#b7c2ca" stroke-width="8" stroke-linecap="round"/>
+  <rect x="326" y="68" width="122" height="140" rx="14" fill="#fff" stroke="#c7d1da" stroke-width="4"/>
+  <path d="M352 174c22-62 52-62 74 0" fill="none" stroke="#b84b31" stroke-width="8" stroke-linecap="round"/>
+  <path d="M354 110c32-25 64-25 96 0" fill="none" stroke="#e0b199" stroke-width="7" stroke-linecap="round"/>
+  <text x="260" y="258" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#354653">Zero-shot Portrait Stylization</text>
+</svg>
